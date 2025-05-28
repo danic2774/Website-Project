@@ -29,3 +29,10 @@
     display: block;
     margin: 0 auto;
 }
+
+.banner-image-2 {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
