@@ -36,3 +36,14 @@
     display: block;
     margin: 20px auto;
 }
+
+
+.green-strip {
+     height: 30px; /* Adjust height as needed */
+     background-color: green; /* Or any green shade */
+     width: 100%;
+     position: fixed; /* Keeps the strip at the bottom */
+     bottom: 0; /* Position at the bottom of the page */
+     left: 0; /* Position at the left of the page */
+     z-index: 10; /* Ensures it's above other content */
+    }
