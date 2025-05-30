@@ -44,6 +44,12 @@
     margin: 0 auto;
 }
 
+.banner-image-4 {
+    width: 100%;
+    height: 600px ;
+    display: block;
+    margin: 0 auto;
+}
 .green-strip {
      height: 30px; /* Adjust height as needed */
      background-color: green; /* Or any green shade */
