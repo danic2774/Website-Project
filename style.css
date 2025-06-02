@@ -59,3 +59,11 @@
      left: 0; /* Position at the left of the page */
      z-index: 10; /* Ensures it's above other content */
     }
+
+h3 {
+    color:#0a471a;
+}
+
+p {
+    margin-inline: 15px;
+}
